@@ -1,0 +1,77 @@
+<html>
+<body>
+
+<h1 align="center">
+Comercio Local
+<hr>
+<p align="center">
+	¿Qué es?
+<p align="center">
+   el comercio local es aquel que tiene una fuerte relación con una determinada localidad o estado. Presenta una gran influencia en la localidad donde está ubicado y tiene como misión comercializar los productos o servicios de dicha zona o región.
+<hr>
+<p align="center">
+	¿Cómo el comercio se desarrolla día a día?
+<p align="center">
+    El comercio local juega un papel muy importante en nuestras vidas. Posiblemente más de lo que hayamos podido imaginar. Durante las últimas décadas, la aparición y desarrollo de nuevas tecnologías como la compra y venta por Internet han hecho mucho daño a gran parte del comercio local.  
+<hr>    
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Nombres y Roles</h2>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Rol</th>
+  </tr>
+  <tr>
+    <td>Thomas Barcenas</td>
+    <td>Escritor</td>
+    
+  </tr>
+  <tr>
+    <td>Ivannha Posselt Dimas</td>
+    <td>Supervisor</td>
+    
+  </tr>
+  <tr>
+    <td>Maria Fernanda Elizarraraz Molina</td>
+    <td>Mediador</td>
+    
+  </tr>
+  <tr>
+    <td>Adriana Guadalupe Delgadillo Patlan</td>
+    <td>Reportero</td>
+    
+  </tr>
+  <tr>
+    <td>Brenda Rosaldo González</td>
+    <td>Reportero</td>
+    
+  </tr>
+  </tr>
+</table>
+<hr>
+<h1>Referencias (APA)</h1>
+<p>Escobedo, L. T. L. E. D. M. M. (2019, 26 junio). ¿Qué es el comercio local?. Ventajas y desventajas. ComercioVentas.com Blog. http://comercioventas.com/blog/quees-el-comercio-local-ventajas-y-desventajas/</p>
+<p>Rühlemann, P. A. G. (2020, 4 mayo). Globalización. gestiopolis. https://www.gestiopoliscom/globalizacion/</p>
+
+</body>
+</html>
